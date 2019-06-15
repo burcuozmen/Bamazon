@@ -29,8 +29,8 @@ As a bonus the user can track product sales across the store's departments and t
    * If not, the app will log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
 
    * If the store _does_ have enough of the product, it will fulfill the customer's order.
-          * This will update the SQL database to reflect the remaining quantity.
-          * Once the update goes through, it will show the customer the total cost of their purchase.
+   * This will update the SQL database to reflect the remaining quantity.
+   * Once the update goes through, it will show the customer the total cost of their purchase.
 
 
 
