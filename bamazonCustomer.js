@@ -63,8 +63,8 @@ function askCustomer() {
                     function itemCheck(){
                 
                     if (userId !== res[0].item_id ){
-                        console.log ("Incorrect product id, please try again");
-                        connection.end;
+                        // console.log ("Incorrect product id, please try again");
+                        // connection.end;
     
                     }else {console.log("You choose item id: ",userId , "Good Choice");
                     }
