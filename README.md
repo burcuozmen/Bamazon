@@ -31,6 +31,8 @@ As a bonus the user can track product sales across the store's departments and t
    * If the store _does_ have enough of the product, it will fulfill the customer's order.
    * This will update the SQL database to reflect the remaining quantity.
    * Once the update goes through, it will show the customer the total cost of their purchase.
+
+   ![](Bamazon.gif)
  
     DEMO:
 
