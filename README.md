@@ -32,15 +32,11 @@ As a bonus the user can track product sales across the store's departments and t
    * This will update the SQL database to reflect the remaining quantity.
    * Once the update goes through, it will show the customer the total cost of their purchase.
 
+
    ![](Bamazon.gif)
  
-    DEMO:
 
-    ![](Bamazon.gif)
-
-
-      
-    https://burcuozmen.github.io/Bamazon 
+   https://burcuozmen.github.io/Bamazon 
    
    
 
